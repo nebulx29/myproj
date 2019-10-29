@@ -1,5 +1,5 @@
-#README
+# README
 Readme for myproj
 
-#AUTHOR
+# AUTHOR
 me
